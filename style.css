@@ -1,15 +1,9 @@
-*{
-    margin: 0%;
-    padding: 0%;
-}
 body{
-    background-image: linear-gradient(to bottom, #e0e8f0, #ceccdc, #c6aebf, #bc9295, #a37c68);
-    text-align: center;
+    background-image: linear-gradient(to bottom, #ffffff, #fcfbfc, #f9f7f8, #f7f3f3, #f4efed, #f3ece8, #f2e9e2, #efe7dd, #f1e3d7, #f3e0d1, #f5dbcd, #f8d7c9);    text-align: center;
     font-family: 'Luxurious Roman', cursive;
     background-position: center;
     text-decoration: none;
     color: black;
-    height: 100vh;
 }
 .encabezado{
     width: 100vw;
@@ -51,4 +45,7 @@ h1{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+.logogr{
+    width: 25vw;
 }
