@@ -37,8 +37,8 @@ h1{
     flex-wrap: wrap;
 }
 .container img{
-    width: 200px;
-    height: 200px;
+    width: 20%;
+    height: 20%;
 }
 .formularios{
     display: flex;
@@ -48,4 +48,25 @@ h1{
 }
 .logogr{
     width: 25vw;
+}
+.mb-3{
+    padding: 2%;
+    margin: 10%;
+    display: flex;
+    justify-content: center;
+    height: 30%;
+}
+.mb-3a{
+    height: 40vh;
+}
+.parrafo{
+    padding: 0%;
+    margin: 0%;
+}
+.carousel-inner{
+    margin: 1em;
+    padding: 1em;
+}
+.cuerpo{
+    padding: 5%;
 }
